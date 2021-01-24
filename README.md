@@ -37,6 +37,7 @@ Simple tool that allows a specific amount of messages by the user to be purged.
 
 * Limit: 100 Messages
 * Can be buggy 
+* Can only delete messages up to 2 weeks.
 
 | Showcase #1 | Showcase #2|
 | ------------- | ------------- | 
