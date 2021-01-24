@@ -50,6 +50,12 @@ Sorry, name can only contain URL-friendly characters and name can no longer cont
 
 *Rename the folder the code is in to something simpler (use one word)*
 
+```
+(node:13400) UnhandledPromiseRejectionWarning: DiscordAPIError: Cannot execute action on a system message
+```
+
+*Ignore this! Referring to `Clyde` or other systematic message applications*
+
 # Disclaimer
 
 This involves the use of selfbots/botting your account, which is against discord ToS. Use this at your own risk.
