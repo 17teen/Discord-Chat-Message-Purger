@@ -56,6 +56,12 @@ Sorry, name can only contain URL-friendly characters and name can no longer cont
 
 *Ignore this! Referring to `Clyde` or other systematic message applications*
 
+```
+TypeError: channelClass is not a constructor
+```
+
+*This is just bad bug in discord.js.v11, it will give you an option to continue so do so to restart*
+
 # Disclaimer
 
 This involves the use of selfbots/botting your account, which is against discord ToS. Use this at your own risk.
