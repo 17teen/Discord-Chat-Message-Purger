@@ -1,3 +1,5 @@
+# THIS TOOL HAS NOW BEEN DISCONTINUED. NO MORE FURTHER WORKS WILL BE MADE FOR THIS TOOL IN JS VERSION. SELFBOTTING IN D.JS IS NOW RENDERED USELESS AND SO IS THIS TOOL.
+
 # Chat-Message-Purger
 Simple tool that allows a specific amount of messages by the user to be purged.
 
