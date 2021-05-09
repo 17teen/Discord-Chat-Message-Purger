@@ -71,6 +71,6 @@ This involves the use of selfbots/botting your account, which is against discord
 ## Contact Me
 
 ﹒[Discord](https://discord.com/users/709827684888215582)
-﹒[Discord Server](https://discord.gg/E3K3JPysSn)
+﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
 ﹒[Telegram](https://t.me/clairvoyant7teen)
 ﹒[Steam](https://steamcommunity.com/id/seven777teen/)
